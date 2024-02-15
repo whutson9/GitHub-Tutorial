@@ -1,0 +1,13 @@
+---
+title: "Example File 1"
+author: "William Hutson"
+date: "2024-02-15"
+output: html_document
+---
+
+This is an example file for the GitHub tutorial. This could be a data cleaning, data analysis, or any other file. Here are some changes
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
